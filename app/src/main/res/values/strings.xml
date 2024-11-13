@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WhatsApp2</string>
+    <string name="inicio">WhatsApp</string>
+    <string name="contacto1">Juan</string>
+    <string name="contacto2">Antonio</string>
+    <string name="contacto3">Pedro</string>
+</resources>
